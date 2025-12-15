@@ -1,1 +1,2 @@
 Mejorar como desarrollador frontend con nuevas tecnologias
+Aprender a desarrollar backend
